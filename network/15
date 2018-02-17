@@ -1,0 +1,5 @@
+127.0.0.1       localhost
+255.255.255.255 broadcasthost
+::1             localhost
+
+10.51.1.38 	cdn.intra.42.fr
