@@ -1,2 +1,2 @@
-echo "* 4 * * 0 /root/42init/02" >> /root/crontab
-crontab ~/crontab
+echo "0 4 * * 0 /root/42init/02" >> /root/crontab
+crontab -u root ~/crontab
