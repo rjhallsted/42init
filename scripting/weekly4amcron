@@ -1,2 +1,2 @@
-crontab -u root ~/crontab
-echo "* 4 * * 0 /root/42init/02" >> /root/crontab 
+echo "* 4 * * 0 /root/42init/02" >> /root/crontab
+crontab ~/crontab
